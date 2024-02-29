@@ -3,14 +3,26 @@
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)  
 [Table of Contents - Red Hat Enterprise Linux](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Table-of-Contents)
 
+### Red Hat Enterprise Life Cycle
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
-- [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
 - [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - Updated May 18 2022
 - [How can a RHEL Self-Support / Entry Level subscription be used?](https://access.redhat.com/articles/54702)
 
 
 ### Registration and Subscription
+- [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
 - [How to register and subscribe a system to the Red Hat Customer Portal using Red Hat Subscription-Manager](https://access.redhat.com/solutions/253273)
+
+
+### Virtual Data Center Subscription
+- [Why and when do I need Virt-Who?](https://access.redhat.com/articles/1300283)
+- [Red Hat Virtualization Agent (virt-who) Configuration Helper](https://access.redhat.com/labsinfo/virtwhoconfig)
+- [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
+- [Configuring virt-who with Red Hat Subscription Management](https://www.youtube.com/watch?v=0KptauyDAxE)
+- [Using RHEL subscriptions (2013 packaging): Scenario 5 - Virtual Datacenter](https://access.redhat.com/articles/480693)
+- [How to use Virtual Datacenter subscriptions in Cloud Platforms ?](https://access.redhat.com/solutions/3492871) FYI... Short answer is that you can't use VDC subs in the cloud as underlying hypervisor is not accessible by virt-who.
+- [With Red Hat Enterprise Linux for Virtual Datacenters, how do I register third party hypervisors and RHEL guests with the Customer Portal or Satellite?](https://access.redhat.com/solutions/1757833)
+- [What is the support status for Red Hat Enterprise Linux on Oracle VM?](https://access.redhat.com/solutions/99193)
 
 
 ### Red Hat Enterprise Linux Extended Update Support (EUS)
