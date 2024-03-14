@@ -5,8 +5,8 @@
 
 ### Red Hat Enterprise Life Cycle
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
-- [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - Updated May 18 2022
-- [How can a RHEL Self-Support / Entry Level subscription be used?](https://access.redhat.com/articles/54702)
+- [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - Updated November 15 2023 - Starting with RHEL 8.0 minor releases occur every 6 months
+- [How can a RHEL Self-Support / Entry Level subscription be used?](https://access.redhat.com/articles/54702) - Self-support/Entry Level RHEL subscriptions are only supported on bare metal servers
 
 
 ### Registration and Subscription
