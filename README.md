@@ -36,6 +36,7 @@
 
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 7
 - [FAQ: Red Hat Enterprise Linux 7 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/articles/7005471)
+- [Enabling Red Hat Enterprise Linux 7 Extended Life-cycle Support via Cloud Marketplaces](https://access.redhat.com/articles/rhel-7-els-on-cloud)
 - [Announcing up to 4 years of Extended Life Cycle Support (ELS) for Red Hat Enterprise Linux 7](https://www.redhat.com/en/blog/announcing-4-years-extended-life-cycle-support-els-red-hat-enterprise-linux-7)
 - [Red Hat Enterprise Linux 7 Extended Lifecycle Support Maintenance Policy](https://access.redhat.com/support/policy/updates/rhel7-els-support-maintenance-policy)
   
