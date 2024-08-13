@@ -3,6 +3,8 @@
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)  
 [Table of Contents - Red Hat Enterprise Linux](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Table-of-Contents)
 
+FYI...  [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
+
 ### Red Hat Enterprise Life Cycle
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
 - [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - Updated November 15 2023 - Starting with RHEL 8.0 minor releases occur every 6 months
