@@ -13,6 +13,7 @@ FYI...  [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."
 
 ### Registration and Subscription
 - [Remote host configuration and management for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/remote-host-configuration-and-management-rhel) - My recommendation going forward is to use Remote Host Configuration for registering your RHEL systems to the Red Hat CDN and Red Hat Insights.  This can be done server by server or via Satellite
+- [Red Hat Registration Assistant](https://access.redhat.com/labs/registrationassistant/) - A guide to step you through creating the registration command
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
 - [How to register and subscribe a system to the Red Hat Customer Portal using Red Hat Subscription-Manager](https://access.redhat.com/solutions/253273)
 
